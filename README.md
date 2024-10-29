@@ -27,9 +27,17 @@ The following **required** functionality is completed:
 
 ## App Brainstorming (Step 4)
 
+1-coingecko
+1.1-Allow User differents sound for their alerts
+1.2-See the % of interactions in social media about the tokens
+
+2-X
+2.1-Add filter in the Bookmarks by kind of content
+2.2-Allow to change your feed about your mood or interest
+
 ## Notes
 
-Describe any challenges encountered while building the app.
+One of the chellenges that I got was how change the fontSize in the Label.
 
 ## License
 
