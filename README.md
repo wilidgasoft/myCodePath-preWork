@@ -37,6 +37,11 @@ X
 - [ ] Add filter in the Bookmarks by kind of content
 - [ ] Allow to change your feed about your mood or interest
 
+Youtube
+
+- [ ] Short videos navigation like TikTok
+- [ ] A reminder for videos that you have interest to watch later
+
 ## Notes
 
 One of the chellenges that I got was how change the fontSize in the Label.
