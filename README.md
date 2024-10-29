@@ -27,13 +27,15 @@ The following **required** functionality is completed:
 
 ## App Brainstorming (Step 4)
 
-- [ ] -coingecko
-- [ ] - [ ] Allow User differents sound for their alerts
-- [ ] - [ ] See the % of interactions in social media about the tokens
+coingecko
 
-- [ ] X
-- [ ] - [ ] Add filter in the Bookmarks by kind of content
-- [ ] - [ ] Allow to change your feed about your mood or interest
+- [ ] Allow User differents sound for their alerts
+- [ ] See the % of interactions in social media about the tokens
+
+X
+
+- [ ] Add filter in the Bookmarks by kind of content
+- [ ] Allow to change your feed about your mood or interest
 
 ## Notes
 
